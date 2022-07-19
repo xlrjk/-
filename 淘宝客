@@ -1,0 +1,5 @@
+【每日爆品】〖https://openapi.dataoke.com/api/goods/explosive-goods-list?appKey=610d39ab54330&version=v1.0.0&pageSize=15&pageId=1&sign=AE84CC1276CAC872A27B63E902A0F7C4〗;
+【9.9包邮】〖https://openapi.dataoke.com/api/goods/nine/op-goods-list?appKey=610d39ab54330&version=v2.0.0&pageId=1&pageSize=15&nineCid=1&sign=C9FDA32E4EC011B3431110A779B59AF8〗;
+【实时优惠】〖https://openapi.dataoke.com/api/goods/singlePage/list-height-commission?appKey=610d39ab54330&version=v1.0.0&pageSize=15&pageId=1&sign=AE84CC1276CAC872A27B63E902A0F7C4〗;
+【限时抢购】〖https://openapi.dataoke.com/api/goods/get-goods-list?appKey=610d39ab54330&version=v1.2.4&pageSize=15&pageId=1&sort=4&sign=55738A56BE4537EC52161E962C2549C3〗;
+【超级低价】〖https://openapi.dataoke.com/api/goods/get-goods-list?appKey=610d39ab54330&version=v1.2.4&pageSize=15&pageId=1&sort=6&sign=3FB8824A80EFB3F2FC7BC25F63B2FEC1〗
