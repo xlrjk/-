@@ -1,0 +1,503 @@
+{
+  "基础配置": {
+    "大淘客": {
+      "标识": "262913f74c16a64f3a444f6ce9266430",
+      "密钥": "610d39ab54330"
+    },
+    "码支付": "http://hz.xgwl.cc/",
+    "服务器": "https://xlia.com/",
+    "蓝奏云域名": "ixlzyw.lanzouw.com",
+    "群": "708397702",
+    "qq": "6352056",
+    "bug": "https://bug.xlia.com/",
+    "蓝奏云图标": "https://xoicn.lanzouw.com/images/type/apk_max.gif",
+    "介绍图": "http://shp.qpic.cn/collector/1210500178/c2bafbde-c7c8-42f9-a79e-29bf2f0d82d0/0",
+    "关于软件": "记得加入旗下全网最大资源Q群708397702方便第一时间获取更多福利！“用心去打造出全网最牛、最全、最独特的软件资源 用每一滴汗水换回所有付出所得的喜悦！” 以防失联务必加入我们Q群防止失联迷路噢!\n",
+    "发卡网": "https://cool-freesia-2bd.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6392fa67-cc45-4ec0-ad3a-753ad3aa967a%2Fca5af1c2f8d581932316981a0f3abc9.jpg?table\u003dblock\u0026id\u003db91c9688-1512-4093-9f0d-276e9b7976f6\u0026spaceId\u003d81225111-a846-4ce3-9634-16d5a2c2a0a7\u0026width\u003d580\u0026userId\u003d\u0026cache\u003dv2",
+    "会员提示": "支付时二维码\n数字是多少支付多少\n支付后返回软件库等待购买成功即可\n支付完成不要退出软件库返回查看订单\n支付问题软件问题均可联系软件白\n没到账支付问题联系微信号"
+  },
+  "下载配置": {
+    "蓝奏云解析": "http://hz.88jd.cn/lanzou/?url\u003d",
+    "下载头": "https://developer.lanzoug.com/file/",
+    "截取1": "var domianload \u003d \u0027",
+    "截取2": "\u0027;"
+  },
+  "开关配置": {
+    "会员中心开关": true,
+    "紧急维护": false,
+    "软件使用": true,
+    "推荐应用开关": true,
+    "会员通知弹窗": true,
+    "软件收藏开关": true,
+    "美团饿了吗开关": true
+  },
+  "应用验证": {
+    "标题": "欢迎使用",
+    "内容": "本专区以下app赞助上架，下载安装下列app即可正常免费下载使用本专区，感谢大家的支持。",
+    "列表": [
+      {
+        "name": "小磊软件库",
+        "url": "https://y-03.cn/3GyqDb",
+        "intro": "平台1",
+        "packageName": "www.4kz.cn"
+      },
+      {
+        "name": "熊盒子2",
+        "url": "https://4kz.cn/wsxc",
+        "intro": "平台2",
+        "packageName": "www.4kz.cn"
+      }
+    ]
+  },
+  "更新配置": {
+    "强制更新": false,
+    "版本": 6.0,
+    "大小": 10.5,
+    "链接": "https://y-03.cn/3GyqDb",
+    "内容": "6.0全面更新升级版本\n兄弟们冲冲冲\n点击升级下载好进行安装\n直链安装点☞https://y-03.cn/3GyqDb\n安装不上断网安装即可安装成功\n最新版本修复打不开，流畅运行版本"
+  },
+  "置顶软件": [
+    {
+      "软件名称": "好涩破解VIP",
+      "软件大小": "89.2MB",
+      "软件图标": "https://image.woozooo.com/image/ico/2022/08/12/78081259-23.png?x-oss-process\u003dimage/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "软件链接": "https://ixlzyw.lanzouf.com/ictRF09h9psj",
+      "发布日期": "2022-09-30"
+    }
+  ],
+  "专区配置": {
+    "一": {
+      "名称": "实用",
+      "链接": "https://ixlzyw.lanzouf.com/s/xlrj",
+      "会员": false,
+      "任务": false,
+      "分享": true,
+      "置顶": false,
+      "应用验证": false
+    },
+    "二": {
+      "名称": "游戏",
+      "链接": "https://ixlzyw.lanzouf.com/s/xlyx",
+      "会员": false,
+      "任务": false,
+      "分享": true,
+      "置顶": false,
+      "应用验证": false
+    },
+    "三": {
+      "名称": "福利",
+      "链接": "https://ixlrjk.lanzouw.com/b03j66uuf",
+      "会员": false,
+      "任务": false,
+      "分享": true,
+      "置顶": false,
+      "应用验证": false
+    },
+    "四": {
+      "名称": "科学",
+      "链接": "https://ixlzyw.lanzouw.com/b0265oeda",
+      "会员": true,
+      "任务": false,
+      "分享": false,
+      "置顶": false,
+      "应用验证": false
+    },
+    "五": {
+      "名称": "⑤游",
+      "链接": "https://xoicn.lanzouw.com/b04meaiaj",
+      "会员": true,
+      "任务": false,
+      "分享": false,
+      "置顶": false,
+      "应用验证": false
+    },
+    "六": {
+      "名称": "",
+      "链接": "",
+      "会员": false,
+      "任务": false,
+      "分享": false,
+      "置顶": true,
+      "应用验证": false
+    }
+  },
+  "分享配置": {
+    "图标": "https://img.xhsix.top/i/2022/12/19/2c8rzp.png",
+    "说明": "请分享",
+    "按钮1": "分享到QQ",
+    "按钮2": "无法分享请点我",
+    "分享次数": "2",
+    "无法分享教程": "https://api3.ffudingdang.com:9002/yfenxiang/",
+    "图文": {
+      "标题": "测试",
+      "摘要": "摘要",
+      "图片": "http://imgcache.qq.com/qzone/space_item/pre/0/66768.gif",
+      "跳转链接": "http://www.qq.com/news/1.html"
+    }
+  },
+  "任务配置": {
+    "图标": "http://static-225b3a82-bbe6-4428-b415-af82caa307b5.bspapp.com/rw/zr/1.jpg",
+    "名称": "密码321",
+    "答案": "31441",
+    "流程": "开始任务\u003e按要求完成任务\u003e提交答案",
+    "步骤": [
+      {
+        "内容": "扫码抽奖请按照以下获取答案提交即可注意密码是6个汉字6个汉字6个字不是数字！不是字母！你看到的就是“密码一”",
+        "图片": [
+          "http://www.jiurenruanjiange.com/img/2.png",
+          "http://www.jiurenruanjiange.com/img/2.png"
+        ]
+      },
+      {
+        "内容": "步骤二",
+        "图片": [
+          "http://www.jiurenruanjiange.com/img/2.png",
+          "http://www.jiurenruanjiange.com/img/2.png"
+        ]
+      },
+      {
+        "内容": "步骤三",
+        "图片": [
+          "http://www.jiurenruanjiange.com/img/2.png",
+          "http://www.jiurenruanjiange.com/img/2.png"
+        ]
+      }
+    ],
+    "按钮文本": "打开任务链接",
+    "链接": "https://s1.ax1x.cOVDwZT.png"
+  },
+  "域名配置": {
+    "页面域名": "https://xoicn.lanzouw.com/tp/",
+    "搜索域名": "https://ixlzyw.lanzouw.com/search/s.php",
+    "图标域名": "https://image.woozooo.com/image/ico/",
+    "获取域名": "https://xoicn.lanzouw.com/filemoreajax.php"
+  },
+  "公告配置": {
+    "公告": "首先感谢茫茫人海中\n能与诸位相遇你我虽素未谋面\n请提高个人网络安全意识你我虽素未谋面\n相隔网络 每日相谈甚欢\n我身心俱疲倒也心甘情愿\n加入我们官方群聊.防止失联",
+    "公告按钮2": "不了",
+    "公告按钮1": "加入",
+    "跳转配置": {
+      "类型": "qqgroup",
+      "参数": "708397702"
+    }
+  },
+  "启动页配置": {
+    "涩图模式": false,
+    "启动图": [
+      "https://img.xhsix.top/i/2022/12/08/12o6t8o.jpg",
+      "https://img.xhsix.top/i/2022/12/08/12obrfg.jpg",
+      "https://img.xhsix.top/i/2022/12/08/12obuvi.jpg",
+      "https://img.xhsix.top/i/2022/12/08/12oby7u.jpg",
+      "https://img.xhsix.top/i/2022/12/08/12obya6.jpg",
+      "https://img.xhsix.top/i/2022/12/08/12oc5pb.jpg",
+      "https://img.xhsix.top/i/2022/12/08/12oc8bm.jpg",
+      "https://img.xhsix.top/i/2022/12/08/12oc7ai.jpg",
+      "https://img.xhsix.top/i/2022/12/08/12e2w32.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g1zis.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g1yko.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g1y62.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g27qr.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g26ht.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g2dfd.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g2e9c.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g2kb5.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g2jo4.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g2nxx.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g2ri7.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g2rkn.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g2u58.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g2zcd.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g314j.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g38ii.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g3b2a.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g3ejs.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g3g9u.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g3syy.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g3ww5.jpg",
+      "https://img.xhsix.top/i/2022/12/09/3g40dt.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lk3vzo.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lk3yf7.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lk42qa.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lk43mj.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lk44qo.jpeg",
+      "https://img.xhsix.top/i/2022/12/08/12e35yb.jpg"
+    ],
+    "涩图": [
+      "https://img.xhsix.top/i/2022/12/09/lluya8.png",
+      "https://img.xhsix.top/i/2022/12/09/llv3qe.png",
+      "https://img.xhsix.top/i/2022/12/09/llv6hy.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llv32w.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llv54i.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llv4fc.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llvas6.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llvdlj.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llvg9j.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llvfnw.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llvcqb.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llvmar.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llvljq.jpeg",
+      "https://img.xhsix.top/i/2022/12/09/llvsd6.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llvr98.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llw2ef.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llvz8c.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llwbmy.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llw5jj.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llwfgb.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llwqai.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llwqmv.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llwmrz.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llwy54.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lmyzup.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lmz000.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lmz1b1.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lmz17g.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lmz01m.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lmyy8m.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lmz9s2.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lmz7q2.jpg",
+      "https://img.xhsix.top/i/2022/12/09/lmz8io.jpg",
+      "https://img.xhsix.top/i/2022/12/09/llwy5e.jpeg"
+    ],
+    "跳转配置": {
+      "类型": "web",
+      "方式": "系统",
+      "参数": "https://cool-freesia-2bd.notion.site/55d8dcd0d63d4addb7270cd3e8110600"
+    }
+  },
+  "优惠券配置": {
+    "美团": "http://static-225b3a82-bbe6-4428-b415-af82caa307b5.bspapp.com/rw/zr/index.html",
+    "饿了吗": "https://static-225b3a82-bbe6-4428-b415-af82caa307b5.bspapp.com/rw/elm/index.html",
+    "优惠券截取1": "\"data\":",
+    "优惠券截取2": ",\"msg\":\"",
+    "优惠券截取3": ",\"msg\":\"",
+    "优惠栏1名称": "实时热销",
+    "优惠栏2名称": "大额优惠",
+    "优惠栏3名称": "品牌优惠",
+    "优惠栏4名称": "聚划算",
+    "优惠栏5名称": "超低会员",
+    "优惠栏1图标": "http://juyunso.polywhite.cn:8088/lishi/0e8e0385a76ce1b10d161e850266098f.png",
+    "优惠栏2图标": "http://juyunso.polywhite.cn:8088/lishi/9f2504c76e9fb7218967071a9782f4ed.png",
+    "优惠栏3图标": "http://juyunso.polywhite.cn:8088/lishi/80ecb8447d1898e1ed2b2f62aa235b9a.png",
+    "优惠栏4图标": "http://juyunso.polywhite.cn:8088/lishi/b677bb6a213d1a95fc7285e708af73a9.png",
+    "优惠栏5图标": "http://juyunso.polywhite.cn:8088/lishi/b57b71f48a0d7482e3758bc149df2592.png",
+    "优惠栏1链接": "http://tuxum.yhzu.cn",
+    "优惠栏2链接": "http://6-y.cn/HjDjFk",
+    "优惠栏3链接": "http://6-y.cn/HjDaMQ",
+    "优惠栏4链接": "http://6-y.cn/HjDFRK",
+    "优惠栏5链接": "https://dabai.hncbny168.com"
+  },
+  "福利中心": [
+    {
+      "名称": "赚钱软件",
+      "链接": "https://4kz.cn/xzzq"
+    },
+    {
+      "名称": "饿了么飯",
+      "链接": "https://4kz.cn/elm"
+    },
+    {
+      "名称": "大白商城",
+      "链接": "https://4kz.cn/dsw"
+    },
+    {
+      "名称": "解忧日记",
+      "链接": "http://qq.339a.cn/erting"
+    },
+    {
+      "名称": "鼻血福利",
+      "链接": "http://qq.339a.cn"
+    }
+  ],
+  "超链文本": [
+    {
+      "类型": "web",
+      "颜色": "#00B0FF",
+      "关键词": "小磊",
+      "下划线": true,
+      "参数": "https://yiqixie.qingque.cn/d/loadimage?id\u003d-2430901657293432971",
+      "方式": "内置"
+    },
+    {
+      "类型": "diy",
+      "颜色": "#FF8A65",
+      "关键词": "官方Q群:708397702",
+      "下划线": false,
+      "参数": "mqqapi://card/show_pslcard?src_type\u003dinternal\u0026version\u003d1\u0026uin\u003d626346610\u0026card_type\u003dgroup\u0026source\u003dqrcode"
+    },
+    {
+      "类型": "qqphp",
+      "颜色": "#FF8A65",
+      "关键词": "6352056",
+      "下划线": false,
+      "参数": "6352056"
+    },
+    {
+      "类型": "qqgroup",
+      "颜色": "#C62828",
+      "关键词": "626346610",
+      "下划线": false,
+      "参数": "626346610"
+    },
+    {
+      "类型": "qqgroup",
+      "颜色": "#C62828",
+      "关键词": "509666600",
+      "下划线": false,
+      "参数": "509666600"
+    },
+    {
+      "类型": "web",
+      "方式": "系统",
+      "颜色": "#9575CD",
+      "关键词": "http://baidu.com",
+      "下划线": false,
+      "参数": "http://baidu.com"
+    }
+  ],
+  "推荐应用": [
+    {
+      "软件名称": "滅火館 最新破解VIP.apk",
+      "软件大小": "13.5MB",
+      "发布日期": "2022-09-20",
+      "软件图标": "https://image.woozooo.com/image/ico/2022/06/09/72463437-61.png?x-oss-process\u003dimage/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "软件链接": "https://xoicn.lanzouw.com/tp/io2Ef064448h"
+    },
+    {
+      "软件名称": "双开助手 破解VIP.apk",
+      "软件大小": "14MB",
+      "发布日期": "2022-09-20",
+      "软件图标": "https://image.woozooo.com/image/ico/2022/05/28/71534668-41.png?x-oss-process\u003dimage/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "软件链接": "https://xoicn.lanzouw.com/tp/icG2X05k7h3i"
+    },
+    {
+      "软件名称": "Tikhub 破解VIP.apk",
+      "软件大小": "14.2MB",
+      "发布日期": "2022-09-20",
+      "软件图标": "https://image.woozooo.com/image/ico/2022/06/13/72804484-87.png?x-oss-process\u003dimage/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "软件链接": "https://xoicn.lanzouw.com/tp/iFY8B06bf9re"
+    },
+    {
+      "软件名称": "飞瓜影视破解VIP.apk",
+      "软件大小": "57.7MB",
+      "发布日期": "2022-09-20",
+      "软件图标": "https://image.woozooo.com/image/ico/2022/06/24/73738305-73738305.png?x-oss-process\u003dimage/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "软件链接": "https://xoicn.lanzouw.com/tp/iv7um06vft8f"
+    }
+  ],
+  "文章列表": [
+    {
+      "方式": "系统",
+      "链接": "https://static-225b3a82-bbe6-4428-b415-af82caa307b5.bspapp.com/rw/elm/index.html",
+      "标题": "饿了么外卖红包",
+      "封面": "http://shp.qpic.cn/collector/1210500178/5a36a0a3-c450-4865-9a19-8d12c93227a2/0",
+      "时间": "2021-09-27"
+    },
+    {
+      "方式": "内置",
+      "链接": "https://4kz.cn/dsw",
+      "标题": "大白代刷网商城",
+      "封面": "http://shp.qpic.cn/collector/1210500178/442c4679-cbd2-433b-a347-9db4a58454db/0",
+      "时间": "2021-08-03"
+    },
+    {
+      "方式": "内置",
+      "链接": "https://4kz.cn/xsm",
+      "标题": "假期赚钱米软件",
+      "封面": "http://shp.qpic.cn/collector/1210500178/e876b92c-3108-4694-b11d-7f96e6370a33/0",
+      "时间": "2021-08-03"
+    },
+    {
+      "方式": "内置",
+      "链接": "https://4kz.cn/ABZUa4",
+      "标题": "淘宝天猫优惠卷",
+      "封面": "https://www.helloimg.com/images/2022/09/26/Z8NcP6.png",
+      "时间": "2021-05-15"
+    },
+    {
+      "方式": "普通",
+      "内容": "小磊软件库所有资源均收集于互联网，并非原创，经过测试分享给大家，请安心使用。\n                                                    \n                                                    \n软件内置所有广告与，熊盒子无关，请提高个人网络安全意识，切勿相信虚假广告。\n                                                    \n                                                    \n软件白特此声明，祝大家生活愉快！\n                                                                    \n                                                                                    \n                                                                                                    \n ",
+      "标题": "免责声明",
+      "封面": "http://txfile-30121.sz.gfp.tencent-cloud.com/1618207818339_63764_2cb6f5d3d91a40883ddd78cbec0301f1.jpg",
+      "时间": "2021-04-12"
+    },
+    {
+      "方式": "普通",
+      "内容": " 1.如果华为等手机安装后图标右下角有红色感叹号\n        \n        使用以下解决办法：\n        \n        可以在“手机管家\u003e病毒查杀\u003e风险管控中心” 选择该应用点击“解除管控”，将应用解除管控！再打开“设置\u003e应用\u003e权限管理”，修改权限设置，这样就可以了。\n        \n        切记，一定要先解除风控在去开软件权限。\n        \n        OPPO，VIVO系列手机安装提示病毒不让安装解决办法\n        \n        vivo，OPPO手机还可以在安装之前断网安装噢\n        \n        关于oppo,vivo手机在安装本软件过程中提示病毒并要求在应用市场安装：\n        \n        主要原因是OPPO,VIVO等手机内置了腾讯手机管家，扫描微信是否被改动，我们软件经过修改所以会被提示。\n        \n        解决办法：进入手机设置\u003e手机管家\u003e病毒引擎\u003e把原先的腾讯改为安天后保存，重新安装本软件即可。\n        \n        \n        2.大部分软件不支持安卓10.0的手机【这个无解】\n        \n        3.也可以使用雄哥破解的虚拟机安装噢，就是另外一个手机一样\n        \n        4.部分破解的软件是破解内购，你只需要点击支付再点击返回就会提示你购买成功了，不需要你真实付款哦。\n        \n        5.解决方法二☞\n          虚拟机就是另外一台手机 https://sourl.cn/B26WU2\n\n\n\n\n\n          \n\n",
+      "标题": "报毒无法安装",
+      "封面": "http://txfile-30121.sz.gfp.tencent-cloud.com/1616425724946_143538_fd45f534a8624ad41d6cca11c628ba0c.jpg",
+      "时间": "2021-03-26"
+    },
+    {
+      "方式": "普通",
+      "内容": "软件下载事例: ☞ https://sourl.cn/vD72Nx\n安装后软件没有更新\n这个最近反馈较多，一般是两个原因：\n\n   1、软件没有覆盖安装\n   原因分析：正常来说是会覆盖旧版本的，但是有部分设备（或者是系统原因）导致软件不会覆盖，所以显示安装完成，但是你手机上的软件依旧是旧版本。\n  解决方法：卸载旧版本软件再安装即可\n\n  2、软件更换了包名\n   原因分析：举个例子，你当前安装的软件包名是 xiong.xiong，但是开发者在编写新版本时脑子一抽，换了个包名 xiong.xio ，那么你安装新版本后，系统就不会覆盖旧版本，而是作为新应用安装，所以你的屏幕上也会多出一个软件。\n解决方法：安装后看看桌面有没有多出图标\n下载卡住、下载失败\n 原因分析：本站大部分下载是使用的蓝奏云网盘，所以下载失败一般是蓝奏云的问题。比如你的本地网络和蓝奏云服务器无法连通。\n\n 解决方法：删除当前的下载任务，然后更换网络重试。或者换个浏览器进行下载（卡在1%的就我收到的反馈来看都是QQ浏览器）。下载的软件和显示的软件不同\n这个属实是有点榴芒行为了，一不小心就踩坑。\n原因分析：部分浏览器（真不是针对QQ浏览器...）总会在你下载的时候弹窗提示，以推广他的应用市场，比如应用宝、PP助手、豌豆荚等等。\n解决方法：不选择通过xxx下载，选择普通下载即可。下载之前多想想，别就知道无脑戳戳戳，任何高速下载都别点，把复选框的√去掉，选择普通下载。\n\n\n\n\n\n\n",
+      "标题": "软件下载解决",
+      "封面": "https://www.helloimg.com/images/2022/09/26/Z8NMhX.png",
+      "时间": "2021-03-27"
+    }
+  ],
+  "轮播列表": [
+    {
+      "图片": "http://shp.qpic.cn/collector/1210500178/7f492b70-31d7-4797-9c0d-ae2ec36fa6f4/0",
+      "跳转配置": {
+        "类型": "web",
+        "方式": "系统",
+        "参数": "https://xoicn.lanzouw.com/b0jo8v3a"
+      }
+    },
+    {
+      "图片": "http://shp.qpic.cn/collector/1210500111/52f92cdd-1a02-4b2c-9e32-fb7b82958556/0",
+      "跳转配置": {
+        "类型": "qqgroup",
+        "参数": "626346610"
+      }
+    },
+    {
+      "图片": "http://shp.qpic.cn/collector/1210500111/33d02b41-6e8b-46ee-b68a-cfc174f15a3b/0",
+      "跳转配置": {
+        "类型": "web",
+        "方式": "系统",
+        "参数": "https://dabai.hncbny168.com"
+      }
+    },
+    {
+      "图片": "http://shp.qpic.cn/collector/1210500178/a81cd7ac-c5c9-4a4f-bf46-61e888d75d9d/0",
+      "跳转配置": {
+        "类型": "web",
+        "方式": "系统",
+        "参数": "http://tuxum.yhzu.cn/"
+      }
+    },
+    {
+      "图片": "http://shp.qpic.cn/collector/1210500178/2ef550dd-e5a1-4a8f-a5c5-67680dac02a5/0",
+      "跳转配置": {
+        "类型": "web",
+        "方式": "系统",
+        "参数": "https://cool-freesia-2bd.notion.site/55d8dcd0d63d4addb7270cd3e8110600"
+      }
+    },
+    {
+      "图片": "http://shp.qpic.cn/collector/1210500111/bcca4411-d89e-4965-b96c-6594492f00c3/0",
+      "跳转配置": {
+        "类型": "web",
+        "方式": "系统",
+        "参数": "https://static-225b3a82-bbe6-4428-b415-af82caa307b5.bspapp.com/rw/xuanshang/index.html"
+      }
+    },
+    {
+      "图片": "http://shp.qpic.cn/collector/1210500111/dade57fd-6132-42da-86dc-7b8c572e03ae/0",
+      "跳转配置": {
+        "类型": "web",
+        "方式": "系统",
+        "参数": "http://qq.339a.cn/erting"
+      }
+    },
+    {
+      "图片": "http://shp.qpic.cn/collector/3147035580/d2229ac0-427c-41a7-8f10-51b47a27caa8/0",
+      "跳转配置": {
+        "类型": "web",
+        "方式": "系统",
+        "参数": "https://static-225b3a82-bbe6-4428-b415-af82caa307b5.bspapp.com/rw/elm/index.html"
+      }
+    }
+  ]
+}
